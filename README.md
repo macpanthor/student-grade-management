@@ -122,7 +122,7 @@ gcc Student_grade_management_System.c -o grade_system
 ```
 
 **Using Code::Blocks or VS Code:**
-- Open the `.c` file and press **Run** or **F5**
+- Open the `.c` file and press **Run** or
 
 ---
 
