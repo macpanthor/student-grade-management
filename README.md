@@ -12,12 +12,13 @@ A console-based Student Grade Management System developed in C. The system allow
 
 ## 👥 Group Members
 
-| Name | Student ID |
-|------|------------|
-|      |            |
-|      |            |
-|      |            |
-|      |            |
+|      Name       | Student ID  |
+|-----------------|-------------|
+| Shuaib Ahamad   | AIU25101084 |
+| Kaung Thiha     | AIU25101096 |
+| Md Nabidul Huda | AIU25101093 |
+| Mohamed Irham   | AIU25101072 |
+| Ahmed           | AIU25101119 |
 
 ---
 
@@ -39,8 +40,10 @@ student-grade-management/
 │   ├── invalid_input.png
 │   └── exit.png
 │
-└── documentation/
-    └── FCC124_Documentation.pdf
+├── Documentation.pdf
+│
+└── PROJECT BACKGROUND&PROBLEM STATEMENT.pdf
+    
 ```
 
 ---
@@ -100,7 +103,7 @@ student-grade-management/
 ![Delete Student](screenshots/delete_student.png)
 
 ### Display Top Student
-![Top Student](screenshots/display_top_student.png)
+![Top Student](screenshots/display_top-student.png)
 
 ### Invalid Input Handling
 ![Invalid Input](screenshots/invalid_input.png)
