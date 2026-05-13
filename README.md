@@ -115,14 +115,38 @@ student-grade-management/
 
 ## 🔧 How to Compile and Run
 
+### 💻 Local Compiler
+
 **Using GCC (MinGW on Windows):**
 ```bash
 gcc Student_grade_management_System.c -o grade_system
-./grade_system
+.\grade_system
 ```
 
 **Using Code::Blocks or VS Code:**
-- Open the `.c` file and press **Run** or
+- Open the `.c` file and press **Run** or **F5**
+
+---
+
+### 🌐 Online Compiler (No Installation Required)
+
+You can run this program directly in your browser without installing anything.
+
+#### Option 1 — OnlineGDB *(Recommended — supports debugger)*
+1. Go to [https://www.onlinegdb.com/online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
+2. Delete the default code in the editor
+3. Paste the contents of `Student_grade_management_System.c`
+4. Make sure the language is set to **C**
+5. Click **▶ Run**
+
+#### Option 2 — Programiz *(Simple & beginner-friendly)*
+1. Go to [https://www.programiz.com/c-programming/online-compiler](https://www.programiz.com/c-programming/online-compiler)
+2. Delete the default code in the editor
+3. Paste the contents of `Student_grade_management_System.c`
+4. Click **▶ Run**
+
+> ⚠️ **Note:** Since this program uses interactive input (`scanf`), make sure to type your inputs in the console/terminal panel when prompted.
+
 
 ---
 
