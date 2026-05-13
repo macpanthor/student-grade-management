@@ -40,6 +40,8 @@ student-grade-management/
 │   ├── invalid_input.png
 │   └── exit.png
 │
+├── slid.pptx
+│
 ├── Documentation.pdf
 │
 └── PROJECT BACKGROUND&PROBLEM STATEMENT.pdf
