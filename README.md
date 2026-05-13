@@ -132,14 +132,14 @@ gcc Student_grade_management_System.c -o grade_system
 
 You can run this program directly in your browser without installing anything.
 
-#### Option 1 — OnlineGDB *(Recommended — supports debugger)*
+#### Option 1 — OnlineGDB 
 1. Go to [https://www.onlinegdb.com/online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
 2. Delete the default code in the editor
 3. Paste the contents of `Student_grade_management_System.c`
 4. Make sure the language is set to **C**
 5. Click **▶ Run**
 
-#### Option 2 — Programiz *(Simple & beginner-friendly)*
+#### Option 2 — Programiz 
 1. Go to [https://www.programiz.com/c-programming/online-compiler](https://www.programiz.com/c-programming/online-compiler)
 2. Delete the default code in the editor
 3. Paste the contents of `Student_grade_management_System.c`
